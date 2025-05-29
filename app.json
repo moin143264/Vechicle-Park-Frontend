@@ -1,0 +1,58 @@
+{
+  "expo": {
+    "name": "ParkMaster-Pro",
+    "slug": "ParkMaster-Pro",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "icon": "./assets/hell.png",
+    "userInterfaceStyle": "light",
+    "newArchEnabled": true,
+    "splash": {
+      "image": "./assets/hell.png",
+      "resizeMode": "contain",
+      "backgroundColor": "#c4bfb6"
+    },
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "adaptiveIcon": {
+        "foregroundImage": "./assets/hell.png",
+        "backgroundColor": "#ffffff"
+      },
+      "permissions": [
+        "NOTIFICATIONS",
+        "VIBRATE",
+        "POST_NOTIFICATIONS",
+        "RECEIVE_BOOT_COMPLETED"
+      ],
+      "plugins": [
+        [
+          "expo-notifications",
+          {
+            "icon": "./assets/icon.png",
+            "color": "#ffffff",
+            "defaultChannel": "default",
+            "enableBackgroundRemoteNotifications": true
+          }
+        ]
+      ],
+      "googleServicesFile": "./google-services.json",
+      "config": {
+        "googleMaps": {
+          "apiKey": "AIzaSyBlOAYRW1zBzRZQmyduajXCHZGwJ12upDc"
+        }
+      },
+      "package": "com.pprm.ParkMasterPro"
+    },
+    "web": {
+      "favicon": "./assets/favicon.png"
+    },
+    "extra": {
+      "eas": {
+        "projectId": "7e1d23a0-8b08-4615-a525-e873971d1d47"
+      }
+    },
+    "owner": "pprm"
+  }
+}

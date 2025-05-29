@@ -1,0 +1,19 @@
+<svg width="1242" height="2436" viewBox="0 0 1242 2436" fill="none" xmlns="http://www.w3.org/2000/svg">
+  <!-- Background -->
+  <rect width="1242" height="2436" fill="#4CAF50"/>
+  
+  <!-- Logo Container -->
+  <g transform="translate(321, 968)">
+    <!-- EV Charging Icon -->
+    <circle cx="300" cy="300" r="280" fill="white"/>
+    <path d="M300 100C211.7 100 140 171.7 140 260s71.7 160 160 160 160-71.7 160-160S388.3 100 300 100zm72 200h-24v56c0 6.6-5.4 12-12 12s-12-5.4-12-12v-56h-48v56c0 6.6-5.4 12-12 12s-12-5.4-12-12v-56h-24c-6.6 0-12-5.4-12-12s5.4-12 12-12h144c6.6 0 12 5.4 12 12s-5.4 12-12 12z" fill="#4CAF50"/>
+    
+    <!-- Lightning Bolt -->
+    <path d="M284 160l-48 96h64l-16 96 48-96h-64l16-96z" fill="#FFEB3B"/>
+  </g>
+  
+  <!-- App Name -->
+  <text x="621" y="1668" text-anchor="middle" font-family="Arial" font-size="72" font-weight="bold" fill="white">
+    EV Charging
+  </text>
+</svg> 

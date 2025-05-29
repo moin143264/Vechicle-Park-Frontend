@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "800073211205",
+    "project_id": "crossplatform-ec4f9",
+    "storage_bucket": "crossplatform-ec4f9.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:800073211205:android:a20b77fbf7be89796d322c",
+        "android_client_info": {
+          "package_name": "com.pprm.ParkMasterPro"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDJ2g4Lms_i0Nxc_pdFBdRSNj0nFBPbaPo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
